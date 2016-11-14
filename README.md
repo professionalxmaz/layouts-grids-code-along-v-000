@@ -6,4 +6,4 @@
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/layouts-grids-code-along' title='Layouts Grids Code-Along'>Layouts Grids Code-Along</a> on Learn.co and start learning to code for free.</p>
 
-<p> placeholder </p>
+<p> Code Complete 11/14/16</p>
